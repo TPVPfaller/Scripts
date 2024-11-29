@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6940724510810407baa499c3bb3fc03c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefab: {instanceID: 0}
+  - startPos: {instanceID: 0}
+  - roadBuilder: {instanceID: 0}
+  - semanticSegRoadBuilder: {instanceID: 0}
+  - laneChTrainer: {instanceID: 0}
+  - locationMarkerPrefab: {instanceID: 0}
+  - wallPrefab: {fileID: 3374048880336259768, guid: 8b387d55ec9059546834dbf5fb0b0971,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
